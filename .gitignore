@@ -29,6 +29,7 @@ build/
 .gradle
 local.properties
 *.iml
+android/gradle_deps/
 
 # node.js
 #
